@@ -13,6 +13,7 @@
 演示站 h5端 b.chatgpt1.xyz
 后台 mit.chatgpt1.xyz
 账号admin admin123
+源码下载地址：https://wwxh.lanzoum.com/i95Aq0yqz1kh
 详情联系V：Notttoay
 扫码进流：![534d3244552ea1c9dbfa026a8ea7105](https://github.com/relkee/gpt-mj/assets/127670759/2e9494a2-cdfd-46b3-bdd9-ba1806a2d90d)
 ![前端2](https://github.com/relkee/gpt-mj/assets/127670759/5c50abde-11f9-4a90-8c9c-c44caeddb0b8)
